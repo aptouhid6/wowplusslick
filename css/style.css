@@ -1,0 +1,22 @@
+body{
+    background: blue;
+}
+.proper{
+    padding: 50px;
+}
+.me{
+    background: red;
+}
+.me2{
+    background: green;
+}
+.me3{
+    background: yellow;
+}
+picture{
+    padding: 50px;
+}
+.ami{
+    padding: 50px;
+    background: green;
+}
